@@ -19,14 +19,14 @@ Mỗi học viên nộp **một repo cá nhân**:
 
 ```text
 Day06-MãHọcViên-HọVàTên
-├── individual/
-└── group/
+├── 01-invidual-workshop/
+└── 02-group-spec/
 ```
 
 Trong đó:
 
-- `individual/`: phần reflection cá nhân, nêu rõ vai trò, việc đã làm, phần AI hỗ trợ, và bài học sau demo.
-- `group/`: bản làm chung của nhóm. Mỗi học viên copy bản cuối vào repo cá nhân của mình.
+- `01-invidual-workshop/`: phần reflection cá nhân, nêu rõ vai trò, việc đã làm, phần AI hỗ trợ, và bài học sau demo.
+- `02-group-spec/`: bản làm chung của nhóm. Mỗi học viên copy bản cuối vào repo cá nhân của mình.
 
 ## Đọc file nào để làm gì?
 
