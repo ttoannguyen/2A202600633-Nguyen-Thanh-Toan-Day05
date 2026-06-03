@@ -4,7 +4,7 @@ Nộp kèm thin SPEC cuối Day 05.
 
 ## 1. Nhóm và track
 
-**Tên nhóm:** Nhóm 02  
+**Tên nhóm:** 
 **Track:** HealthTech / Medical Chatbot Assistant  
 **Product/app đã chọn:** AI Vaccine Assistant (Trợ lý AI tư vấn và Đặt lịch Tiêm chủng FPT Long Châu)  
 **Build slice đang nghĩ:** Chatbot AI tương tác trực tiếp với khách hàng để thu thập hồ sơ y tế (tuổi, giới tính, sức khỏe hiện tại, tiền sử dị ứng, nhu cầu tiêm chủng), phân loại an toàn y khoa. Nếu phát hiện rủi ro, AI tự động kích hoạt chuyển giao (escalate) sang Dược sĩ/Bác sĩ kèm hotline hoặc form gọi lại. Nếu an toàn, AI đề xuất vắc-xin phù hợp + giải thích lịch tiêm, sau đó hướng dẫn khách hàng định vị tìm trung tâm Long Châu gần nhất, chọn ngày/giờ và hoàn tất đặt lịch hẹn trực tiếp (gửi SMS/Email xác nhận và nhắc lịch).
